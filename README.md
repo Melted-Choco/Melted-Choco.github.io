@@ -27,5 +27,5 @@ __unordered list__ (number + '.')
 2. Taekwondo third-degree
 
 ## Contact
-Email: jtm4902@naver.com\
+Email: [Naver](jtm4902@naver.com)\
 Github: [Melted-Choco](https://github.com/Melted-Choco)
