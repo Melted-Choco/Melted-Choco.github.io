@@ -26,5 +26,5 @@ Game development using Unity (mobile, pc one each)
 * Taekwondo third-degree
 
 ## Contact
-Email: [Naver](jtm4902@naver.com)\
+Email: jtm4902@naver.com\
 Github: [Melted-Choco](https://github.com/Melted-Choco)
