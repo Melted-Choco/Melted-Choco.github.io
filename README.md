@@ -22,7 +22,7 @@ Sungkyunkwan University, South Korea. (2020~Current)
 Game development using Unity (mobile, pc one each)
 
 ## Certifications
-__unordered list__ (number + '.')
+__unordered list__
 1. Go(바둑) first-degree\
 2. Taekwondo third-degree
 
